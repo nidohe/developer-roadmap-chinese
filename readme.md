@@ -21,27 +21,21 @@
 <sub>看看我的[部落格](http://kamranahmed.info)，然後來 [Twitter](https://twitter.com/kamranahmedse) 說聲 "hi"。</sub><br>
 <sub>（譯註：也歡迎來逛逛譯者的[部落格](http://goodjack.blogspot.com/)，然後來 [Twitter](https://twitter.com/littlegoodjack) 打個招呼 :P）</sub>
 
-## 台灣正體中文翻譯狀態
+## 台灣正體中文翻譯
 
-### 狀態徽章
+### 翻譯狀態
 
-| 原著最後更新時間 | 本翻譯最後更新時間 |
-| :-----------: | :-------------: |
+| 原著最後更新 | 本翻譯最後更新 |
+| :--------: | :----------: |
 | [![](https://img.shields.io/github/last-commit/kamranahmedse/developer-roadmap.svg?style=for-the-badge)](https://github.com/kamranahmedse/developer-roadmap) | [![](https://img.shields.io/github/last-commit/goodjack/developer-roadmap-chinese.svg?style=for-the-badge)](https://github.com/goodjack/developer-roadmap-chinese)
 
-### 更新日誌
-* [`08303c0`](https://github.com/kamranahmedse/developer-roadmap/tree/08303c062316bd3c903dcbd4d38cf31ca1b705bc) 2019 年新版路線圖
-    * 介紹改版：
-        * 新增 SOLID、KISS、YAGNI
-        * 新增授權條款
-        * 新增語意化版本
-    * 前端改版：
-        * 伺服器端渲染推薦 React.js
-        * 擴充測試段落並推薦 Jest、Enzyme、Cypress
-        * 新增 Web API、JS 中的 CSS、靜態網站產生器、桌面及手機應用程式、Web Assembly 等段落。
-* [`67a72aa`](https://github.com/kamranahmedse/developer-roadmap/commit/67a72aab113e79c11e292ada394606f079f6a263) 新增 DevOps 容器協作，並推薦 Kubernetes。
+### 最近更新
+> 其餘更新請參閱 [更新日誌](./CHANGELOG.md)
 
-## 譯者前言
+#### [`abaa839`](https://github.com/kamranahmedse/developer-roadmap/tree/abaa839b26d6bfb02208ad63e25186b558c1bdc4) - 2019-01-26
+* 取消後端路線圖的透明背景
+
+### 譯者前言
 嗨大家好我是小克 👋，從 2017 年開始注意到這個 repo 覺得獲益良多，所以就試著翻譯看看，分享給更多需要的人。由於這裡是翻譯 repo，關於內容的任何建議，推薦你直接回饋給 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)，當然需要我協助也是可以的 :D
 
 這裡的中文都盡量使用 **台灣用語及術語**，資訊相關的術語都會在翻譯旁保留原文供參考。中文排版皆盡可能地依循 [**中文文案排版指北**](https://github.com/sparanoid/chinese-copywriting-guidelines)（若有不符的地方請跟我說）。
