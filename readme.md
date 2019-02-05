@@ -32,8 +32,8 @@
 ### 最近更新
 > 其餘更新請參閱 [更新日誌](./CHANGELOG.md)
 
-#### [`abaa839`](https://github.com/kamranahmedse/developer-roadmap/tree/abaa839b26d6bfb02208ad63e25186b558c1bdc4) - 2019-01-26
-* 取消後端路線圖的透明背景
+#### [`edff915`](https://github.com/kamranahmedse/developer-roadmap/tree/edff9156ff6820bdf29db11381cab590429122a5) - 2019-02-05
+* 更新 Sponsored By 段落
 
 ### 譯者前言
 嗨大家好我是小克 👋，從 2017 年開始注意到這個 repo 覺得獲益良多，所以就試著翻譯看看，分享給更多需要的人。由於這裡是翻譯 repo，關於內容的任何建議，推薦你直接回饋給 [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)，當然需要我協助也是可以的 :D
@@ -84,6 +84,7 @@
 ## Sponsored By
 
 - [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
+- [**Educative.io**: Become an employable Web Developer from scratch with this interactive learning track. Try a free preview today!](https://www.educative.io/track/beginning-front-end-developer)
 
 ## 授權條款
 

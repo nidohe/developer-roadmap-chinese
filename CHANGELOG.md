@@ -3,6 +3,10 @@
 
 此專案的所有顯著更改都將記錄在此文件中。以下版本號皆依 [原著 Commit hash](https://github.com/kamranahmedse/developer-roadmap/commits/master) 為主。
 
+## [`edff915`](https://github.com/kamranahmedse/developer-roadmap/tree/edff9156ff6820bdf29db11381cab590429122a5) - 2019-02-05
+* 更新 Sponsored By 段落
+
+
 ## [`abaa839`](https://github.com/kamranahmedse/developer-roadmap/tree/abaa839b26d6bfb02208ad63e25186b558c1bdc4) - 2019-01-26
 * 取消後端路線圖的透明背景
 
