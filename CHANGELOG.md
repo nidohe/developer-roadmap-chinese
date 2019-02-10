@@ -3,6 +3,9 @@
 
 此專案的所有顯著更改都將記錄在此文件中。以下版本號皆依 [原著 Commit hash](https://github.com/kamranahmedse/developer-roadmap/commits/master) 為主。
 
+## [`3fd5b9e`](https://github.com/kamranahmedse/developer-roadmap/tree/3fd5b9e7448d5a1eafffd380141e5dc2fedb2e50) - 2019-02-06
+* 更新 Sponsored By 段落
+
 ## [`edff915`](https://github.com/kamranahmedse/developer-roadmap/tree/edff9156ff6820bdf29db11381cab590429122a5) - 2019-02-05
 * 更新 Sponsored By 段落
 

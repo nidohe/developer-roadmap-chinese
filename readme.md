@@ -32,7 +32,7 @@
 ### 最近更新
 > 其餘更新請參閱 [更新日誌](./CHANGELOG.md)
 
-#### [`edff915`](https://github.com/kamranahmedse/developer-roadmap/tree/edff9156ff6820bdf29db11381cab590429122a5) - 2019-02-05
+#### [`3fd5b9e`](https://github.com/kamranahmedse/developer-roadmap/tree/3fd5b9e7448d5a1eafffd380141e5dc2fedb2e50) - 2019-02-06
 * 更新 Sponsored By 段落
 
 ### 譯者前言
@@ -83,10 +83,9 @@
 
 ## Sponsored By
 
-- [Hackr.io - Find & Share the Best Online Programming Courses & Tutorials](https://hackr.io)
+- [**Hackr.io** - Best Online Programming Courses & Tutorials Recommended by the Programming Community](https://hackr.io)
 - [**Educative.io**: Become an employable Web Developer from scratch with this interactive learning track. Try a free preview today!](https://www.educative.io/track/beginning-front-end-developer)
 
 ## 授權條款
-
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
