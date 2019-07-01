@@ -4,6 +4,11 @@
 
 此專案的所有顯著更改都將記錄在此文件中。以下版本號皆依 [原著 Commit hash](https://github.com/kamranahmedse/developer-roadmap/commits/master) 為主。
 
+## [`796bde7`](https://github.com/kamranahmedse/developer-roadmap/tree/796bde76c96759b9d23892d30d2dbd8b55892aac) - 2019-07-01
+
+- 新增 GitHub 贊助功能
+- Readme 更新總結段落，移除贊助段落
+
 ## [`2312fdd`](https://github.com/kamranahmedse/developer-roadmap/tree/2312fdd608feb5c660645d02058200ccbfbbf4c6) - 2019-05-17
 
 - Readme 更新：更換封面圖片、新增 roadmap.sh 網站

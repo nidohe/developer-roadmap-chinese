@@ -32,14 +32,10 @@
 
 > 其餘更新請參閱 [更新日誌](./CHANGELOG.md)
 
-#### [`2312fdd`](https://github.com/kamranahmedse/developer-roadmap/tree/2312fdd608feb5c660645d02058200ccbfbbf4c6) - 2019-05-17
+#### [`796bde7`](https://github.com/kamranahmedse/developer-roadmap/tree/796bde76c96759b9d23892d30d2dbd8b55892aac) - 2019-07-01
 
-- Readme 更新封面圖片、新增 roadmap.sh 網站
-- 前端路線圖修正 Hoisting 拼寫
-- DevOps 路線圖修正 TeamCity 拼寫
-- 更新 Sponsored By 段落
-- 更換授權條款
-- （中文翻譯）CSS in JS 改用原文
+- 新增 GitHub 贊助功能
+- Readme 更新總結段落，移除贊助段落
 
 ### 譯者前言
 
@@ -73,7 +69,7 @@
 
 ## 🚦 總結
 
-如果你認為路線圖有可以改進的地方，請更新並開個 PR 或是送出 issue。另外，我也會繼續改進這個專案，所以你可能會想要 watch 或 star 這個專案以便再來觀看。
+如果你認為路線圖有可以改進的地方，歡迎在 issue 中討論。另外，我也會繼續改進這個專案，所以你可能會想要 watch 這個專案或訂閱 [roadmap.sh](http://roadmap.sh) 以便再來觀看。
 
 ## 🙌 貢獻
 
@@ -84,11 +80,6 @@
 - 分享出去
 - 接受任何意見回饋 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/kamranahmedse.svg?style=social&label=Follow%20%40kamranahmedse)](https://twitter.com/kamranahmedse)
 - （關於中文翻譯）接受任何意見回饋 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/littlegoodjack.svg?style=social&label=Follow%20@littlegoodjack)](https://twitter.com/littlegoodjack)
-
-## Sponsored By
-
-- [**Hackr.io** - Best Online Programming Courses & Tutorials Recommended by the Programming Community](https://hackr.io)
-- [**Noon** – Develop, Document, Test and Monitor your APIs](https://noon.sh/)
 
 ## 授權條款
 
