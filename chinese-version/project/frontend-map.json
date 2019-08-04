@@ -4601,14 +4601,14 @@
                   "ID": "1",
                   "typeID": "Label",
                   "zOrder": "1",
-                  "w": "58",
-                  "measuredW": "46",
+                  "w": "101",
+                  "measuredW": "94",
                   "measuredH": "25",
-                  "x": "59",
+                  "x": "41",
                   "y": "8",
                   "properties": {
                     "size": "17",
-                    "text": "JSCS",
+                    "text": "StandardJS",
                     "align": "center"
                   }
                 }

@@ -32,10 +32,12 @@
 
 > 其餘更新請參閱 [更新日誌](./CHANGELOG.md)
 
-#### [`796bde7`](https://github.com/kamranahmedse/developer-roadmap/tree/796bde76c96759b9d23892d30d2dbd8b55892aac) - 2019-07-01
+#### [`dacbf09`](https://github.com/kamranahmedse/developer-roadmap/tree/dacbf09f5529ef46ef652b88b5076dcc15067672) - 2019-07-10
 
-- 新增 GitHub 贊助功能
-- Readme 更新總結段落，移除贊助段落
+- 前端：移除已整併至 ESLint 的 JSCS，並新增 StandardJS
+- 後端：Go 語言正名
+- 修正 GitHub 贊助
+- （中文翻譯）將原著 JSON 檔格式化，以方便追蹤變更
 
 ### 譯者前言
 

@@ -2123,7 +2123,7 @@
           "y": "691",
           "properties": {
             "size": "17",
-            "text": "試試看 Golang、Rust 或 Clojure，"
+            "text": "試試看 Go、Rust 或 Clojure，"
           }
         },
         {
@@ -3643,7 +3643,7 @@
           "y": "2009",
           "properties": {
             "size": "17",
-            "text": "*針對 Golang* – 我傾向不使用框架來撰寫"
+            "text": "*針對 Go* – 我傾向不使用框架來撰寫"
           }
         },
         {
@@ -5475,7 +5475,7 @@
           "properties": {
             "bold": "true",
             "size": "17",
-            "text": "Golang"
+            "text": "Go"
           }
         },
         {
