@@ -2,6 +2,8 @@
 
 > 2019 年成為 Web 開發人員的路線圖
 
+[![](https://img.shields.io/badge/%E2%9D%A4-%E5%88%B0%E8%8B%B1%E6%96%87%E5%AE%98%E7%B6%B2%E7%80%8F%E8%A6%BD%E8%A9%B3%E7%B4%B0%E5%85%A7%E5%AE%B9-0a0a0a.svg?style=flat&colorA=0a0a0a)](http://roadmap.sh)
+
 在下方，你會看到一系列的圖表，展示為了成為前端、後端或 DevOps 開發人員，你可以採取的路徑和你會想採用的技術。我為我的一位老教授做了這些圖表，他想和大學生分享一些東西，給他們一個觀點；在這裡分享它們以幫助社群。
 
 如果你有任何覺得可以改進的地方，歡迎提供建議。
@@ -32,12 +34,9 @@
 
 > 其餘更新請參閱 [更新日誌](./CHANGELOG.md)
 
-#### [`dacbf09`](https://github.com/kamranahmedse/developer-roadmap/tree/dacbf09f5529ef46ef652b88b5076dcc15067672) - 2019-07-10
+#### [`347831f`](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952) - 2020-01-04
 
-- 前端：移除已整併至 ESLint 的 JSCS，並新增 StandardJS
-- 後端：Go 語言正名
-- 修正 GitHub 贊助
-- （中文翻譯）將原著 JSON 檔格式化，以方便追蹤變更
+- 更新官網徽章按鈕
 
 ### 譯者前言
 

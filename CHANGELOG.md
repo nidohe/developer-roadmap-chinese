@@ -4,6 +4,10 @@
 
 此專案的所有顯著更改都將記錄在此文件中。以下版本號皆依 [原著 Commit hash](https://github.com/kamranahmedse/developer-roadmap/commits/master) 為主。
 
+## [`347831f`](https://github.com/kamranahmedse/developer-roadmap/tree/347831feaed227f42525e829ccc8d84a22386952) - 2020-01-04
+
+- 更新官網徽章按鈕
+
 ## [`dacbf09`](https://github.com/kamranahmedse/developer-roadmap/tree/dacbf09f5529ef46ef652b88b5076dcc15067672) - 2019-07-10
 
 - 前端：移除已整併至 ESLint 的 JSCS，並新增 StandardJS
